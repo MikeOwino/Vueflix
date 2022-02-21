@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/befeac79-b0f2-49d9-88aa-fcec7a4bc233/deploy-status)](https://app.netlify.com/sites/nifty-lovelace-ad93e0/deploys)
+
 # Vueflix
 [![Watch the video](https://i.imgur.com/ONOmMqc.png)](https://youtu.be/LAnsf9VhVzs)
 
